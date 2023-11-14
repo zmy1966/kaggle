@@ -1,3 +1,9 @@
+# kaggle
+# House Prices - Advanced Regression Techniques
+#Predict sales prices and practice feature engineering, RFs, and gradient boosting
+#房价 - 高级回归技术
+#预测销售价格并练习特征工程、射频和梯度提升
+
 import math  # 导入数学库，用于数学计算
 import pandas as pd  # 导入Pandas库，用于数据处理
 import sklearn.metrics as metrics  # 导入Scikit-learn库中的metrics模块，用于性能评估
